@@ -9,7 +9,7 @@
    # Activate virtual environment for windows 
    <name of the environment>\Scripts\activate.bat 
    ```
-4. Install PyQt in VSCode terminal :
+4. In virtual environment install PyQt in VSCode terminal :
 5. ```
    pip install PyQt5 
    pip install  PyQt6
