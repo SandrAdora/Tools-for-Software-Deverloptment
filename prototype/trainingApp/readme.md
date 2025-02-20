@@ -3,6 +3,12 @@
 1. Install VSC
 2. Install Python
 3. Install Pip
+4. Use Virtual environement
+```
+   python -m venv <name of the environment > 
+   # Activate virtual environment for windows 
+   <name of the environment>\Scripts\activate.bat 
+   ```
 4. Install PyQt in VSCode terminal :
 5. ```
    pip install PyQt5 
