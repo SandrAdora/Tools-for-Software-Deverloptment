@@ -63,7 +63,7 @@ from sys import exit
 ```
 
 
-# lib for compability with matplotlib
+# Lib for compability with matplotlib
 
 ```
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvasQTAgg
