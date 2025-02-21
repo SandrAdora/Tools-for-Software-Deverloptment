@@ -19,7 +19,7 @@
    pip install PyQt5-tools
    ```
 
-   Standard Input:
+   Standard Import:
 8. ```
    import sys
    from PyQt5.QtCore import Qt , QDate 
