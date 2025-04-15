@@ -1,12 +1,16 @@
 ## Indoor GPS for Hospitals 
 
-This is an indoor GPS (Global Position System) Application for Hospitals. It is specially made for workers in the intensive unit. It should help them move patients in intensive care easier and time efficiently to their appending examinations.
+Dies ist eine Indoor-GPS-Anwendung (Global Position System) für Krankenhäuser. Sie wurde speziell für Mitarbeiter in der Intensivstation entwickelt. Sie soll ihnen helfen, Patienten in der Intensivpflege leichter und zeiteffizient zu ihren bevorstehenden Untersuchungen zu bewegen.
 
-The Application retrieves information about a *patient awaiting examination* from the database and list out all the examinations required for the day. 
+Die Anwendung ruft Informationen über einen *Patienten, der auf eine Untersuchung wartet* aus der Datenbank ab und listet alle für den Tag erforderlichen Untersuchungen auf.
 
-# Utilies
-1. Framework: *Angular*
-2. Programming Languages used: *Java, C++ Python*
-3. Virtual Environment: *yes* 
+# Technologie-Stack:
+- *Flutter* – für die mobile Benutzeroberfläche.
+- *Python* – für Backend-Logik und Datenverarbeitung.
+- *C++* – für Algorithmen zur Positionsbestimmung.
+- *MySQL* (phpMyAdmin) 
+    – zur Speicherung der Positionsdaten
+    _ Speicherung der Patienten Daten 
+
 
 # Packages 
