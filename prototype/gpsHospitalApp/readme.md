@@ -1,4 +1,5 @@
-## Indoor GPS for Hospitals 
+## Indoor GPS für Krankhäuser
+## Medic Care Mobile Applikation
 
 Dies ist eine Indoor-GPS-Anwendung (Global Position System) für Krankenhäuser. Sie wurde speziell für Mitarbeiter in der Intensivstation entwickelt. Sie soll ihnen helfen, Patienten in der Intensivpflege leichter und zeiteffizient zu ihren bevorstehenden Untersuchungen zu bewegen.
 
@@ -13,4 +14,8 @@ Die Anwendung ruft Informationen über einen *Patienten, der auf eine Untersuchu
     _ Speicherung der Patienten Daten 
 
 
-# Packages 
+# Tree
+- Frontend
+    - Lib
+        main
+- Backend
