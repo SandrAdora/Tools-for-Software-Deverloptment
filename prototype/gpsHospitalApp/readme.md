@@ -16,9 +16,28 @@ Die Applikation verwendet für die Standortermittlung das WLan des Krankenhaus. 
     – zur Speicherung der Positionsdaten
     _ Speicherung der Patienten Daten 
 
+# Vorgang der Installation 
 
-# Tree
-- Frontend
-    - Lib
-        main
-- Backend
+1. Flutter installieren 
+https://docs.flutter.dev/get-started/install
+        
+2. Android Studio installieren
+https://developer.android.com/studio/install?hl=de#windows
+
+(3. Visual Studio )
+https://visualstudio.microsoft.com/de/downloads/
+
+4. Git 
+https://git-scm.com/downloads
+
+5. Github 
+https://github.com/apps/desktop
+
+
+# Nutzbare Erweiterungen in VSC
+1. Flutter
+2. Dart
+3. Flutter Widget Snippets 
+4. JSON 
+5. (Matrial Icon Theme)
+6. Thunder Client (API/REST API mit POST MAN Verbindung): https://www.thunderclient.com/
